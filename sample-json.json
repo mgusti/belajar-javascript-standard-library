@@ -1,0 +1,7 @@
+{
+  "firstName": "Eko",
+  "middleName": "Kurniawan",
+  "lastName": "Khannedy",
+  "alamat": { "country": "Indonesia", "city": "Jambi" },
+  "hobby": ["Coding", "Games", "Traveling"]
+}
